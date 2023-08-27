@@ -1,20 +1,15 @@
 # ChillFlix with React, NextJS, TailwindCSS & Prisma
 
-![image]()
+![image](https://github.com/SrihariNadakuditi/chill-flix/blob/main/public/images/Login.png)
 
 This is a repository of Chillflix using React, NextJS, TailwindCSS & Prisma.
 
 Features:
 
-- Environment, Typescript, NextJS Setup
 - MongoDB & Prisma connect, Database creation
 - Authentication with NextAuth, Google & Github Login
-- Full responsiveness on all pages
-- Cookie based authentication
-- API and Controllers creation
 - Detail-oriented effects and animations using TailwindCSS
-- React SWR data fetching
-- Zustand state management
+
 
 ### Prerequisites
 

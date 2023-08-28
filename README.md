@@ -10,6 +10,7 @@ Features:
 - Authentication with NextAuth, Google & Github Login
 - Detail-oriented effects and animations using TailwindCSS
 
+- link:https://chill-flix-livid.vercel.app/
 
 ### Prerequisites
 

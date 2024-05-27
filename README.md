@@ -9,6 +9,7 @@ Features:
 - MongoDB & Prisma connect, Database creation
 - Authentication with NextAuth, Google & Github Login
 - Detail-oriented effects and animations using TailwindCSS
+- Use username:test@123.com and password: Test@123
 
 - link:https://chill-flix-livid.vercel.app/
 
